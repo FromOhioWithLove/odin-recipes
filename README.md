@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a basic recipe site which links to outside recipes. This will showcase that I am competent with basic HTML skills.
